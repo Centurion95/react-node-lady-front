@@ -43,3 +43,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+## Deploy en GitHub Pages
+Se han seguido las instrucciones en: \
+[https://github.com/gitname/react-gh-pages](https://github.com/gitname/react-gh-pages)
+
