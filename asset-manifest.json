@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-node-lady-front/static/css/main.436f526f.css",
+    "main.js": "/react-node-lady-front/static/js/main.4b64c491.js",
+    "index.html": "/react-node-lady-front/index.html",
+    "main.436f526f.css.map": "/react-node-lady-front/static/css/main.436f526f.css.map",
+    "main.4b64c491.js.map": "/react-node-lady-front/static/js/main.4b64c491.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.436f526f.css",
+    "static/js/main.4b64c491.js"
+  ]
+}
