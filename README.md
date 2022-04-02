@@ -1,3 +1,16 @@
+# Sistema Lady
+
+Trabajo de grado para la Universidad Autonoma de Asunción
+
+## Autor
+
+Rodrigo Centurión (centu95@hotmail.com)
+
+### Acerca de
+
+Villa Elisa, Paraguay
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
