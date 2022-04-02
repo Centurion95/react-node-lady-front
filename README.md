@@ -1,4 +1,4 @@
-# Sistema Lady
+# Sistema Lady (front-end)
 
 Trabajo de grado para la Universidad Autonoma de Asunción
 
@@ -9,6 +9,23 @@ Rodrigo Centurión (centu95@hotmail.com)
 ### Acerca de
 
 Villa Elisa, Paraguay
+
+## Tencnologías utilizadas
+
+Aqui se detallan las tecnologías utilizadas en el desarrollo del proyecto
+
+### Front-end
+
+ReactJS
+JavaScript
+HTML
+CSS
+
+### Back-end
+
+NodeJS
+JavaScript
+MySQL
 
 
 # Getting Started with Create React App
