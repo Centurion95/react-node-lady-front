@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-node-lady-front/static/css/main.436f526f.css",
-    "main.js": "/react-node-lady-front/static/js/main.2ac0257f.js",
+    "main.js": "/react-node-lady-front/static/js/main.81e670ab.js",
     "index.html": "/react-node-lady-front/index.html",
     "main.436f526f.css.map": "/react-node-lady-front/static/css/main.436f526f.css.map",
-    "main.2ac0257f.js.map": "/react-node-lady-front/static/js/main.2ac0257f.js.map"
+    "main.81e670ab.js.map": "/react-node-lady-front/static/js/main.81e670ab.js.map"
   },
   "entrypoints": [
     "static/css/main.436f526f.css",
-    "static/js/main.2ac0257f.js"
+    "static/js/main.81e670ab.js"
   ]
 }
