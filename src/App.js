@@ -34,7 +34,11 @@ import {
 } from "react-router-dom";
 
 const App = () => (
-  <Router>
+  // rc95 06/04/2022 19:11 - Building for Relative Paths
+  // https://codeburst.io/deploying-and-hosting-a-react-app-on-an-apache-server-b7121dffb07a
+  <Router
+    basename={"/react-node-lady-front"}
+  >
     <Header />
     <Routes>
       {/* <Route path="/cupcakes" element={<Cupcakes />} /> */}
